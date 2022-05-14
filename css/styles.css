@@ -1,0 +1,132 @@
+#top{
+  background-color: #FF6FB5;
+  text-align: center;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  font-family: 'Sacramento',
+
+}
+
+#options{
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 4%;
+}
+
+.btn_a{
+  background-color: #F24A72;
+  color:white;
+}
+
+#bottom{
+  padding-top: 7%;
+  padding-bottom: 5%;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+.bottom-img{
+  float: left;
+  size: 1px;
+  margin-right: 10px;
+}
+
+.b_row{
+  text-align:left;
+  line-height: 1;
+  padding-bottom: 3%;
+}
+
+.btm_head{
+  text-align: center;
+}
+
+#btm-last{
+  background-color: #FFAFAF;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  color:white;
+}
+
+.row-btm-last{
+  padding-left: 5%;
+  padding-right: 5%;
+  line-height: 2;
+}
+
+.btmimg{
+  padding-left: 3%;
+  padding-right: 3%;
+  width: 40px;
+  height:35px;
+
+}
+
+.footer{
+  margin-left: 2rem;
+
+}
+
+.online{
+  text-align: right;
+  margin-right: 2rem;
+
+}
+
+.coltop{
+  text-align: : right;
+
+}
+
+.verticalLine {
+        border-left: 1px solid white;
+        height: 325px;
+      }
+
+#topname{
+  padding-top: 3%;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 3%;
+
+}
+
+.titlename{
+  color: #DEA057;
+  font-size: 1rem;
+
+}
+
+.tname{
+  font-family: 'Abril Fatface', cursive;
+  letter-spacing: 2px;
+
+}
+.titlename1{
+  line-height: 2;
+  color: white;
+
+}
+
+
+.nav-link{
+  color:white !important;
+}
+
+body{
+  margin: 0;
+  width:100%;
+}
+
+.carimg{
+  border-radius: 50%;
+}
+
+.car{
+  padding-top: 5%;
+  padding-bottom: 3%;
+}
+
+.carcon{
+  padding-left: 1%;
+  padding-right: 1%;
+}
